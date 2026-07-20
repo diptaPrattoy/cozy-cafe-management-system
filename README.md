@@ -234,11 +234,9 @@ Install the following software before running the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/cafe-management-system.git
+git clone https://github.com/diptaPrattoy/cafe-management-system.git
 cd cafe-management-system
 ```
-
-Replace `YOUR-USERNAME` with the GitHub username that owns the repository.
 
 ### 2. Open the Solution
 
