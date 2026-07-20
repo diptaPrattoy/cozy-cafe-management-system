@@ -1,0 +1,50 @@
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\CAFE MANAGEMENT SYSTEM.exe.config
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\CAFE MANAGEMENT SYSTEM.exe
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\CircularProgressBar.dll
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\Guna.UI2.dll
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\WinFormAnimation.dll
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\CircularProgressBar.xml
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MANAGEMENT SYSTEM.csproj.AssemblyReference.cache
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.AdminAddProducts.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.adminAddUser.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.adminDashboard.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.adminDashboardForm.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.CashierCustomersForm.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.CashierMainForm.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.CashierOrderForm.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.GroupMembers.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.login.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.RegisterForm.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.Welcome.resources
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MAN.38618755.Up2Date
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MANAGEMENT SYSTEM.exe
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MANAGEMENT SYSTEM.pdb
+C:\Users\Dipta Karmakar\Desktop\working\w2\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\CAFE MANAGEMENT SYSTEM.pdb
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\CAFE MANAGEMENT SYSTEM.exe.config
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\CAFE MANAGEMENT SYSTEM.exe
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\CAFE MANAGEMENT SYSTEM.pdb
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\CircularProgressBar.dll
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\Guna.UI2.dll
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\WinFormAnimation.dll
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\bin\Debug\CircularProgressBar.xml
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MANAGEMENT SYSTEM.csproj.AssemblyReference.cache
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.AdminAddProducts.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.adminAddUser.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.adminDashboard.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.adminDashboardForm.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.CashierCustomersForm.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.CashierMainForm.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.CashierOrderForm.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.GroupMembers.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.login.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.RegisterForm.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE_MANAGEMENT_SYSTEM.Welcome.resources
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MAN.38618755.Up2Date
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MANAGEMENT SYSTEM.exe
+C:\Users\Dipta Karmakar\Desktop\working\w3\b5\CAFE MANAGEMENT SYSTEM\CAFE MANAGEMENT SYSTEM\obj\Debug\CAFE MANAGEMENT SYSTEM.pdb
